@@ -13,4 +13,4 @@ https://spectacle.hackmit.org/project/538
 
 # Images
 ![Student View](Images/StudentView.png)
-![Student View](Images/ClassUnityView.png)
+![Student View](Images/ClassroomUnityView.png)
