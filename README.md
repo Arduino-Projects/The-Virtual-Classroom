@@ -12,3 +12,5 @@ A VR Classroom as a better alternative to existing online platforms for current 
 https://spectacle.hackmit.org/project/538
 
 # Images
+![Student View](Images/StudentView.png)
+![Student View](Images/ClassUnityView.png)
